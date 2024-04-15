@@ -1,0 +1,74 @@
+
+certificateName,Num_of_emp,Approved
+.NET,23,15
+Accessibility,33,20
+Agile Methodologies,35,15
+Agile Product Management,32,19
+Angular,29,13
+Artificial Intelligence,28,16
+AWS,25,12
+Azure,27,13
+Behavior-Driven Development,23,11
+Business Analysis,24,10
+C#,26,6
+CI/CD,36,18
+Collaboration,26,9
+Communication,25,17
+Containerization,27,19
+Continuous Deployment,35,19
+Continuous Integration,15,8
+Cryptography,24,10
+CSS,25,11
+Cybersecurity,33,19
+Data Analysis,32,13
+Data Science,22,15
+Data Visualization,28,15
+DevOps,33,16
+Django,36,21
+Docker,14,6
+Documentation,28,19
+Flask,28,16
+Git,30,10
+Google Cloud Platform,31,12
+GraphQL,28,14
+HTML,32,12
+Information Security,29,13
+Interaction Design,15,9
+Java,30,16
+JavaScript,24,12
+Kotlin,32,14
+Kubernetes,27,15
+Leadership,26,13
+Machine Learning,18,12
+Microservices,24,7
+MongoDB,36,17
+MySQL,26,15
+Network Security,26,13
+Node.js,27,11
+NoSQL,29,18
+Objective-C,30,12
+Penetration Testing,20,11
+PHP,29,16
+PostgreSQL,22,8
+Problem Solving,37,18
+Product Management,19,6
+Prototyping,39,17
+Python,28,10
+React,28,16
+Requirements Analysis,35,23
+Responsive Design,29,16
+RESTful API,29,11
+Ruby,28,12
+Scrum,21,6
+SQL,25,7
+Statistical Analysis,19,11
+Support,28,12
+Swift,31,18
+Technical Writing,27,14
+Test-Driven Development,28,17
+Troubleshooting,28,17
+UI/UX Design,28,16
+User Research,36,18
+User Stories,29,15
+Vue.js,31,13
+Wireframing,33,12

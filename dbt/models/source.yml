@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: Skill_matrix
+    database: Major_project
+    schema: dbo
+    tables:
+      - name: Certificate_Data
+      - name: NewSkill_data
+      - name: project_data
+      - name: users_data
+      - name: skills_data
